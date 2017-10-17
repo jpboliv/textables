@@ -1,5 +1,5 @@
 const colors = {
-  background: '#00cc99',
+  background: '#89cff0',
   clear: 'rgba(0,0,0,0)',
   facebook: '#3b5998',
   transparent: 'rgba(0,0,0,0)',
@@ -7,7 +7,7 @@ const colors = {
   steel: '#CCCCCC',
   error: 'rgba(200, 0, 0, 0.8)',
   ricePaper: 'rgba(255,255,255, 0.75)',
-  frost: '#cdf5eb',
+  frost: '#cdebf9',
   cloud: 'rgba(200,200,200, 0.35)',
   windowTint: 'rgba(0, 0, 0, 0.4)',
   panther: '#161616',
