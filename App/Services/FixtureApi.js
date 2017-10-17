@@ -1,15 +1,9 @@
 export default {
   // Functions return fixtures
-  getRoot: () => {
+  getFaces: () => {
     return {
       ok: true,
-      data: require('../Fixtures/root.json')
-    }
-  },
-  getRate: () => {
-    return {
-      ok: true,
-      data: require('../Fixtures/rateLimit.json')
+      data: require('../Fixtures/faces.json')
     }
   },
   getUser: (username) => {
